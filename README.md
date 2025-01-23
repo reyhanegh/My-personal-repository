@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Reyhaneh 
+<h1 align="center">⭐️ Hello to everyone! I'm Reyhaneh ⭐️
 	
 <h3 align="center">A passionate AI developer from Yazd Iran &#127470;&#127479</h3>
 
@@ -7,7 +7,9 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXZxY3ZodG1sdjk5YjdqN2RqZTc5cGxoZ2hkM250bmQ1dDkyYTBqbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
 </a>
 
-- 🌱 I’m currently working On Master's thesis 🎓 (Artificial Intelligence and Robotics)
+- 🌱 I’m currently working On Master's thesis
+  
+- 🎓 MY MASTER STUDY FIELD IS Artificial Intelligence and Robotics
  
 - 🤝 I’m available for freelancing.
 
@@ -18,7 +20,7 @@
 - 👨‍💻 How to reach me **forrgh76@gmail.com**
 
 
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me ⭐️ </h3>
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me </h3>
 
 <p align="center">
 
