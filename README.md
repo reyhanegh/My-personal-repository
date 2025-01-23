@@ -39,9 +39,8 @@
 		<!-- <a style="margin-left: 10px;" target="_blank" href="https://twitter.com/100rabhcsmc">
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a> -->
 		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/@mrs.programmer9659">
-				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
-		
-      </div>
+				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>		
+	
 
 </p>
 
@@ -59,3 +58,5 @@
 Credit: [Reyhaneh Ghafouripour](https://github.com/reyhanegh)
 
 Last Edited on: 23/1/2025
+
+</div>
