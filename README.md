@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Reyhaneh <a href="https://www.flaticon.com/free-icons/programmer" title="programmer icons">Programmer icons created by Freepik - Flaticon</a> </h1>
-
+<h1 align="center">Hi 👋, I'm Reyhaneh 
+	
 <h3 align="center">A passionate AI developer from Yazd Iran &#127470;&#127479</h3>
 
 
@@ -55,5 +55,3 @@
 Credit: [Reyhaneh Ghafouripour](https://github.com/reyhanegh)
 
 Last Edited on: 23/1/2025
-content: >-
-  <center><h1>{{ now().strftime('%a_%b_%-d, %I:%M_%p') | replace('_', '&nbsp;') }}
