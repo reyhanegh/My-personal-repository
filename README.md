@@ -19,10 +19,13 @@
 
 - 👨‍💻 How to reach me **forrgh76@gmail.com**
 
+- ✍ my cv is available here  <a style="margin-left: 5px;" target="_blank" href="https://github.com/reyhanegh/reyhaneh.io/blob/main/FARSIResume.pdf">
+					<img src="https://img.icons8.com/?size=100&id=115648&format=png&color=000000" ></a>
 
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me </h3>
+
 
 <p align="center">
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me </h3>
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <!-- <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/saurabhmchavan/">
@@ -37,8 +40,7 @@
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a> -->
 		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/@mrs.programmer9659">
 				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
-		<a style="margin-left: 5px;" target="_blank" href="https://github.com/reyhanegh/reyhaneh.io/blob/main/FARSIResume.pdf">
-					<img src="https://img.icons8.com/?size=100&id=115648&format=png&color=000000" ></a>
+		
       </div>
 
 </p>
