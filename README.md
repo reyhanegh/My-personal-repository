@@ -17,7 +17,7 @@
 
 - 💻 Ask me about **Python & AI**
 
-- 👨‍💻 How to reach me **forrgh76@gmail.com**
+- 👩🏻‍💻 How to reach me **forrgh76@gmail.com**
 
 - ✍ my cv is available here
   <a style="margin-left: 5px;" target="_blank" href="https://github.com/reyhanegh/reyhaneh.io/blob/main/FARSIResume.pdf"><img src="https://img.icons8.com/?size=100&id=115648&format=png&color=000000" ></a>
